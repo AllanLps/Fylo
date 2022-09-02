@@ -1,0 +1,21 @@
+@import url(./cabecalho/cabecalho.css);
+@import url(./descricao/descricao.css);
+@import url(./obtenha/obtenha.css);
+@import url(./produtivo/link.css);
+@import url(./produtivo/produtivo.css);
+@import url(./rodape/rodape.css);
+
+
+:root {
+    --branco:#ffffff;
+    --cor-de-fundo:#fafafd;
+    --roxo:#08053b;
+    --roxo-claro:#5b5b89;
+    --roxo-background: #f8f8fe;
+    --cinza:#b6b2c1;
+    --azul: #2f65f9;
+    --verde: #3da08f ;
+    --fonte-principal: "Raleway";
+    --fonte-secundaria: "Open Sans";
+}
+

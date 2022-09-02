@@ -1,0 +1,27 @@
+.produtivo__link{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.produtivo__ancora {
+    color: var(--verde);
+    padding: 4em 2em 0.3em 0em;
+    border-block-end: solid 2px var(--verde);
+    text-decoration: none;
+   
+}
+
+.produtivo__ancora--seta {
+    background-image:url(/assets/img/icon-arrow.svg);
+    background-repeat:no-repeat;
+    background-position: 12.5em 3.7em;
+    background-size: 1.5em;
+}
+
+@media screen and (min-width: 1024px) {
+    .produtivo__link{
+        margin-bottom: 4rem;
+    }
+}
