@@ -14,14 +14,14 @@
   }
   
   .rodape__tel{
-    background-image: url("/assets/img/icon-phone.svg");
+    background-image: url(Fylo/assets/img/icon-phone.svg);
     background-repeat: no-repeat;
     padding: 0rem 1.5rem;
     margin: 1rem;
   }
   
   .rodape__email {
-    background-image: url("/assets/img/icon-email.svg");
+    background-image: url(Fylo/assets/img/icon-email.svg);
     background-repeat: no-repeat;
     padding: 0rem 1.5rem;
     margin: 1rem;
