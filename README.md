@@ -11,4 +11,6 @@ Os usuários devem ser capazes de:
 
 Para esse desafio utilizei a técnica de mobile-first. 
 
+Link do projeto = https://allanlps.github.io/Fylo/
+
 A Fylo é uma empresa fictícia de armazenamento de arquivos na nuvem. 
